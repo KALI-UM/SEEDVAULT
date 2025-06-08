@@ -1,1 +1,5 @@
-noion Portfolio → https://elemental-iguanodon-d7e.notion.site/Seed-Vault-108ddab1931e4348b41669dc26288d0a?pvs=4
+# SEED VAULT
+---
+
+
+개발 기간 2021.09 ~ 2022.07
