@@ -6,8 +6,9 @@
 📅 **개발 기간**
  21.09 ~ 22.07 (약 10개월)
 
+**구현 내용** 👉 [Notion Page](https://elemental-iguanodon-d7e.notion.site/Seed-Vault-108ddab1931e4348b41669dc26288d0a?source=copy_link)
 
-https://elemental-iguanodon-d7e.notion.site/Seed-Vault-108ddab1931e4348b41669dc26288d0a?source=copy_link
+
 
 
 
